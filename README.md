@@ -1,7 +1,7 @@
 # Tweet Counter
 > Chrome Extension - Bring back the character counter in all the tweet boxes
 
-![](https://i.imgur.com/ZtdB6PL.png)
+![](https://i.imgur.com/xOGX2xe.png)
 
 ## Installation
 
