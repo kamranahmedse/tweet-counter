@@ -2,6 +2,7 @@ const tweetBoxSelector = '.RichEditor-container';
 const counterSelector = '.js-countdown-counter';
 const editorSelector = '.tweet-box.rich-editor';
 
+// Populates the tweet character count
 const populateCount = (target) => {
     const $target = $(target);
     const $counter = $target.closest(tweetBoxSelector).find(counterSelector);
