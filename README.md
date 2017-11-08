@@ -1,5 +1,7 @@
-# Twitter 140
-> Chrome Extension - Limit your tweets to 140 characters
+# Tweet Counter
+> Chrome Extension - Bring back the character counter in tweet box
+
+![](https://i.imgur.com/ZtdB6PL.png)
 
 ## Installation
 
