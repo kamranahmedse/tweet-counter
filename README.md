@@ -1,11 +1,11 @@
 # Tweet Counter
-> Chrome Extension - Bring back the character counter in tweet box
+> Chrome Extension - Bring back the character counter in all the tweet boxes
 
 ![](https://i.imgur.com/ZtdB6PL.png)
 
 ## Installation
 
-Install it from the [Chrome web store]() or [install it manually by cloning](https://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system/247654#247654)
+Install it from the [Chrome web store](https://goo.gl/7sxkCd) or [install it manually by cloning](https://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system/247654#247654)
 
 Voila! you have got your 140 character limit back
 
